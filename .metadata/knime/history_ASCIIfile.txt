@@ -1,0 +1,8 @@
+file:/Users/vlad/Projects/knime-workspace/clustering_assignment/iris.data
+file:/Users/vlad/Projects/knime-workspace/clustering_assignment_bankdata/bank_data_Example.csv
+file:/Users/vlad/Projects/knime-workspace/supermarketdataset.csv
+knime://knime.workflow/../shoppingList.csv
+knime://knime.workflow/data.all
+https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+knime://knime.workflow/data/shuttle.data
